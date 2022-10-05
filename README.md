@@ -1,5 +1,5 @@
 # Python
- Meus trabalhos/estudos em python
+
 
 <h2><strong>O que é esse repositório?</strong></h2>
 
