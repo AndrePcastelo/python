@@ -1,0 +1,5 @@
+print('vamos calcular a hipotenusa!')
+n1 = float(input('digite o cateto oposto'))
+n2 = float(input('Digite o cateto adjacento'))
+h = (n1 ** 2 + n2 ** 2) ** (1/2)
+print(f'o quadrado da hipotenusa é {h:.2f}')
