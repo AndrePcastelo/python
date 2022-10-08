@@ -1,2 +1,2 @@
-q = bool(input('Diga-me alguma coisa:'))
-print(f'{q}')
+res = input('Você quer continuar [s/n]')
+if res == 's'
