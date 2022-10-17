@@ -12,5 +12,3 @@ for c in range (1, 4):
 print(lista)
 r = somador(lista)
 print(r)
-    
-
